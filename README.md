@@ -72,11 +72,4 @@ A web-based Point of Sale and Business Management System for barbershops.
 - Filament
 - MySQL
 - Tailwind CSS
-
-## Tech Stack
-
-- Laravel 12
-- Filament
-- MySQL
-- Tailwind CSS
 >>>>>>> ba5c691 (Add project screenshots)
