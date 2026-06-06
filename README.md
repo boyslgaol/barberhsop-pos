@@ -1,75 +1,46 @@
 # Barbershop POS
 
-A web-based Point of Sale and Business Management System for barbershops.
+A comprehensive web-based Point of Sale and Business Management System designed specifically for barbershops.
 
 ## Features
 
-<<<<<<< HEAD
-- POS Transaction
-=======
-- Point of Sale (POS)
->>>>>>> ba5c691 (Add project screenshots)
-- Appointment Management
-- Customer Management
-- Employee Management
-- Revenue Reports
-<<<<<<< HEAD
+### Core Features
+- **Point of Sale (POS)** - Fast and intuitive transaction processing
+- **Appointment Management** - Schedule and manage customer appointments
+- **Customer Management** - Track customer history and preferences
+- **Employee Management** - Manage staff, schedules, and commissions
+- **Revenue Reports** - Generate detailed financial reports and analytics
+- **Dashboard Analytics** - Real-time business insights and metrics
+
+## Screenshots
+
+### Dashboard
+![Dashboard](assets/dashboard.png)
+
+### POS Transaction
+![POS](assets/pos.png)
+
+### Customer Management
+![Customer](assets/customer.png)
 
 ## Tech Stack
 
-- Laravel
-- Filament
-- MySQL
-- Tailwind CSS
-=======
-- Dashboard Analytics
+- **Backend:** Laravel 12
+- **Admin Panel:** Filament
+- **Database:** MySQL
+- **Frontend:** Tailwind CSS
+- **Other:** Livewire, Alpine.js
 
-## Dashboard
+## Requirements
 
-![Dashboard](assets/dashboard.png)
+- PHP >= 8.2
+- Composer
+- MySQL >= 5.7
+- Node.js & NPM (for asset compilation)
 
-## POS Transaction
+## Installation
 
-![POS](assets/pos.png)
-
-## Customer Management
-
-![Customer](assets/customer.png)
-
-# Barbershop POS
-
-A web-based Point of Sale and Business Management System for barbershops.
-
-## Features
-
-- Point of Sale (POS)
-- Appointment Management
-- Customer Management
-- Employee Management
-- Revenue Reports
-- Dashboard Analytics
-
-## Dashboard
-
-![Dashboard](assets/dashboard.png)
-
-## POS
-
-![POS](assets/pos.png)
-
-## Customer Management
-
-![Customer](assets/customer.png)
-
-
-## POS Transaction
-
-![POS](assets/transaction.png
-
-## Tech Stack
-
-- Laravel 12
-- Filament
-- MySQL
-- Tailwind CSS
->>>>>>> ba5c691 (Add project screenshots)
+### 1. Clone the repository
+```bash
+git clone https://github.com/yourusername/barbershop-pos.git
+cd barbershop-pos
