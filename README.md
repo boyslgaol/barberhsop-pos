@@ -43,4 +43,8 @@ A comprehensive web-based Point of Sale and Business Management System designed 
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/yourusername/barbershop-pos.git
+<<<<<<< HEAD
 cd barbershop-pos
+=======
+cd barbershop-pos
+>>>>>>> 0a6d8f5 (Add project screenshots)
